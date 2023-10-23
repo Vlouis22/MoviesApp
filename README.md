@@ -1,16 +1,16 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
 Submitted by: **Valery Louis**
 
-Time spent: **5** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Summary
 
-**Movie App** is an android app that **"An app that displays the movie details of the movie you typed in such as the release date and the rating using TMDB's API"**
+**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
 
-If I had to describe this project in three (3) emojis, they would be: **🙂😎😈**
+If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
 
@@ -19,32 +19,28 @@ If I had to describe this project in three (3) emojis, they would be: **🙂😎
 The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Display at least three (3) pieces of data for each API entry retrieved
-- [x] A working Button requests a new API entry and updates the data displayed
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
-- [x] Add a query to the API request
-  - The query I added is **Enter A Movie**
-- [x] Build a UI to allow users to add that query
+- [ ] Add a UI element for the user to interact with API further
+- [ ] Show a `Toast` or `Snackbar` when an item is clicked
+- [ ] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
-
-## API Choice
-
-My chosen API for this project is **enter here**.
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
 <div>
-    <a href="https://www.loom.com/share/b8ea589b89bc45cda52880a11769112b">
+    <a href="https://www.loom.com/share/f3450ee7aecb495f9eb6cf11ca1205b3">
     </a>
-    <a href="https://www.loom.com/share/b8ea589b89bc45cda52880a11769112b">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b8ea589b89bc45cda52880a11769112b-with-play.gif">
+    <a href="https://www.loom.com/share/f3450ee7aecb495f9eb6cf11ca1205b3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f3450ee7aecb495f9eb6cf11ca1205b3-with-play.gif">
     </a>
   </div>
 
